@@ -65,7 +65,7 @@
     font-weight: 500;
     border-style: solid;
     border-width: 1px;
-    border-color: rgb(243, 8, 8);
+    border-color: rgb(2, 66, 241);
     backdrop-filter: blur(1px);
     margin: 20px 0 0px;
     border-radius: 16px;
@@ -73,7 +73,7 @@
     padding: 10px 10px;
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 5px 30px rgba(255, 255, 255, 0.2);
-    color: rgb(241, 232, 232);
+    color: rgb(255, 253, 253);
 }
 
 .btn:hover {
@@ -83,7 +83,7 @@
 .Profile {
     border-style: solid;
     border-width: 1px;
-    border-color: rgb(240, 7, 7);
+    border-color: rgb(255, 10, 10);
     backdrop-filter: blur(1px);
     box-shadow: 0 5px 30px rgb(159, 53, 53);
     transition: transform 0.2s ease-in-out;
